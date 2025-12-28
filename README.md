@@ -9,7 +9,7 @@ A modern dashboard starter project built with React and TailwindCSS.
 - Clean structure for expansion
 
 ## Screenshot
-(Insert screenshot here)
+ <img src="Macbook-Pro-16.png"  alt="Description of image 1"/>
 
 ## What I Learned
 - Setting up React with Vite
